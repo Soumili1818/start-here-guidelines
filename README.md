@@ -116,11 +116,11 @@ A project also has documentation. These files are usually listed in the top leve
 
 **CODE_OF_CONDUCT**: The code of conduct sets ground rules for participants’ behavior and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 
-**Other documentation**: There might be additional documentation such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
+**Other documentation**: There might be additional documentation such as tutorials, walkthroughs, or governance policies, especially on bigger projects. Whatever contibutes to the betterment of the project works.
 
 Finally, open-source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
-**Issue tracker**: Where people discuss issues related to the project.
+**Issue tracker**: Where people discuss issues related to the project. Simply put in your alteration suggestions and wait for approval/allocation.
 
 **Pull requests**: Where people discuss and review changes that are in progress.
 
